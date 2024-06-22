@@ -1,2 +1,3 @@
 # loan-approval
 LOAN APPROVAL ML MODEL
+In the financial world, the ability to accurately predict loan approvals is crucial for both lenders and borrowers. For lenders, it minimizes the risk of financial losses due to defaults, while for borrowers, it provides faster and more informed decisions. This project explores a loan approval dataset to develop a predictive model that can effectively assess the likelihood of loan approval based on various applicant characteristics. By leveraging machine learning techniques and focusing on key evaluation metrics, we aim to build a robust model that can aid financial institutions in making informed lending decisions.
